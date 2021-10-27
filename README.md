@@ -1,5 +1,6 @@
 # Shell-Bypass
 Mini Shell Bypass ->> mini.php
+
 Fiturnya:
 - Anti Logger
 - Create File 
@@ -12,6 +13,7 @@ Fiturnya:
 
 
 403 Shell Bypass ->> 403.php
+
 Fiturnya:
 - Anti Logger
 - Auto Delete Shell
