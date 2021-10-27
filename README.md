@@ -11,7 +11,7 @@ Fiturnya:
 - Bypass 403 Forbidden
 - Remove Shell
 
-
+===========°°°°°============
 403 Shell Bypass ->> 403.php
 
 Fiturnya:
