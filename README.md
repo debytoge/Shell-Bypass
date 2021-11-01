@@ -9,6 +9,7 @@ fiturnya:
 - Bypass 406 Not Acceptable
 - Lewati Imunify360
 kami
+kami
 403 Shell Bypass ->> 403.php
 
 fiturnya:
