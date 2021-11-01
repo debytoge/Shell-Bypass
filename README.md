@@ -1,13 +1,14 @@
 # Shell-Bypass
 Mini Shell Bypass ->> kct.php
-Fiturnya:
+
+fiturnya:
 - Buat File
 - Membuat folder
 - File Download
 - Bypass 403 Forbidden
 - Bypass 406 Not Acceptable
-- Bypass Imunify360
-
+- Lewati Imunify360
+kami
 403 Shell Bypass ->> 403.php
 
 fiturnya:
